@@ -1,0 +1,266 @@
+* {
+  margin: 0;
+  font-family:
+    "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif, Helvetica,
+    sans-serif;
+}
+header {
+  width: 100%;
+  height: 70px;
+  background-color: rgba(157, 200, 44, 1);
+}
+.header {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.logo1 {
+  width: 145px;
+  margin-right: 35px;
+}
+.button1 {
+  width: 120px;
+  height: 38px;
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-size: 16px;
+}
+.button1:hover {
+  background-color: white;
+  color: black;
+  transform: translateY(-6px);
+}
+.link1 {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  margin-left: 45px;
+}
+.link2 {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  margin-left: 130px;
+}
+.section1 {
+  width: 100%;
+  height: 650px;
+  background-color: rgba(232, 232, 232, 1);
+}
+.container1 {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.div1 {
+  width: 50%;
+}
+.title1 {
+  font-size: 48px;
+  line-height: 60px;
+  color: black;
+  padding-bottom: 25px;
+}
+.parag1 {
+  width: 520px;
+  font-size: 18px;
+  line-height: 30px;
+  color: grey;
+  padding-bottom: 45px;
+}
+.div2 {
+  width: 500px;
+  height: 55px;
+  background-color: white;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+.input1 {
+  width: 430px;
+  height: 95%;
+  border: none;
+  font-size: 18px;
+}
+.button2 {
+  width: 38px;
+  height: 38px;
+  border: none;
+  border-radius: 50%;
+  background-color: rgba(157, 200, 44, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.size-6 {
+  width: 25px;
+}
+.div3 {
+  width: 50%;
+  height: 600px;
+  position: relative;
+}
+.img1 {
+  width: 620px;
+  position: absolute;
+  right: 40px;
+  top: 280px;
+  z-index: 2;
+}
+.div4 {
+  width: 280px;
+  height: 260px;
+  background-color: grey;
+  border-radius: 10px;
+  position: absolute;
+  right: 160px;
+  top: 180px;
+  z-index: 1;
+  padding: 30px;
+  color: white;
+}
+.title2 {
+  font-size: 24px;
+  padding-bottom: 8px;
+}
+.parag2 {
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+.parag3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.div5 {
+  width: 160px;
+  height: 26px;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 120px;
+  bottom: 0px;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 15px;
+  padding: 14px 22px;
+  position: absolute;
+  z-index: 3;
+}
+.div6 {
+  width: 160px;
+  height: 26px;
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: 0px;
+  top: 660px;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 15px;
+  padding: 14px 22px;
+  position: absolute;
+  z-index: 3;
+}
+.section2 {
+  width: 100%;
+  padding: 140px 0;
+}
+.container2 {
+  width: 90%;
+  margin: auto;
+}
+.title3 {
+  text-align: center;
+  font-size: 48px;
+  color: black;
+  padding-bottom: 35px;
+}
+.div7 {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  padding-bottom: 55px;
+}
+.button3{
+  height: 42px;
+  padding: 0 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: inherit;
+  color: grey;
+  font-size: 15px;
+}
+.button4 {
+  height: 42px;
+  padding: 0 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: rgba(54, 54, 54, 1);
+  color: white;
+  font-size: 16px;
+}
+.button3:hover{
+  background-color: grey;
+  color: white;
+  transform: translateY(-3px);
+  font-size: 18px;
+}
+.button4:hover{
+  background-color: grey;
+  color: white;
+  transform: translateY(-3px);
+  font-size: 18px;
+}
+.div8 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.div9 {
+  width: 20%;
+}
+.div10 {
+  width: 100%;
+  height: 290px;
+  background-color: rgba(250, 250, 250, 1);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+.img3 {
+  width: 190px;
+}
+.title4 {
+  font-size: 28px;
+  color: black;
+  padding-bottom: 10px;
+}
+.parag4 {
+  font-size: 16px;
+  color: grey;
+  padding-bottom: 18px;
+}
+.narx1 {
+  font-size: 34px;
+  color: black;
+}
+.div11 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.narxipeshina1 {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.25);
+  text-decoration: line-through;
+}
