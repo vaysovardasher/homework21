@@ -594,3 +594,319 @@ footer {
   color: grey;
   line-height: 42px;
 }
+.icon1 {
+  display: none;
+}
+.icon2 {
+  display: none;
+}
+@media (max-width: 630px) {
+  header {
+    height: 50px;
+  }
+  .header {
+    width: 94%;
+    justify-content: space-between;
+  }
+  .logo1 {
+    width: 95px;
+    margin-right:150px;
+  }
+  .button1 {
+    width: 75px;
+    height: 30px;
+    font-size: 11px;
+    order: -1;
+  }
+  .link1,
+  .link2 {
+    display: none;
+  }
+  .icon1{
+    width: 30px;
+    display: block;
+    color: white;
+    margin-left: 330px;
+    margin-top: -40px;
+  }
+  .section1 {
+    height: auto;
+    padding: 40px 0 0 0;
+  }
+  .container1 {
+    width: 88%;
+    display: block;
+  }
+  .div1 {
+    width: 100%;
+    text-align: center;
+  }
+  .title1 {
+    font-size: 24px;
+    line-height: 30px;
+    padding-bottom: 15px;
+  }
+  .parag1 {
+    width: 100%;
+    font-size: 13px;
+    line-height: 20px;
+    padding-bottom: 25px;
+  }
+  .div2 {
+    width: 100%;
+    height: 45px;
+    padding-left: 12px;
+  }
+  .input1 {
+    width: 80%;
+    font-size: 12px;
+  }
+  .button2 {
+    width: 30px;
+    height: 30px;
+  }
+  .div3 {
+    width: 100%;
+    height: 420px;
+    margin-top: 60px;
+  }
+  .div4 {
+    width: 220px;
+    height: 180px;
+    left: 20px;
+    top: 0;
+    padding: 25px;
+  }
+  .img1 {
+    width: 330px;
+    left: -5px;
+    top: 155px;
+  }
+  .div5,
+  .div6 {
+    display: none;
+  }
+  .section2 {
+    padding: 60px 0;
+    margin-top: 40px
+  }
+  .container2 {
+    width: 90%;
+  }
+  .title3 {
+    font-size: 24px;
+    padding-bottom: 25px;
+  }
+  .div7 {
+    display: none;
+  }
+  .div8 {
+    display: block;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .div9 {
+    width: 50%;
+    margin-bottom: 25px;
+  }
+  .div10 {
+    height: 220px;
+  }
+  .img3 {
+    width: 150px;
+  }
+  .title4 {
+    font-size: 20px;
+  }
+  .narx1 {
+    font-size: 24px;
+  }
+  .section3 {
+    display: block;
+    padding: 40px 0;
+  }
+  .container3 {
+    width: 90%;
+  }
+  .title5 {
+    font-size: 24px;
+    padding-bottom: 25px;
+  }
+  .div12 {
+    display: none;
+  }
+  .div13 {
+    display: none;
+  }
+  .div14 {
+    width: 60%;
+  }
+  .parag5 {
+    font-size: 13px;
+  }
+  .title6 {
+    font-size: 30px;
+  }
+  .parag6 {
+    font-size: 13px;
+  }
+  .narx2 {
+    font-size: 22px;
+  }
+  .button5 {
+    width: 110px;
+    height: 35px;
+    font-size: 13px;
+  }
+  .div16 {
+    display: block;
+  }
+  .div17 {
+    height: 150px;
+    margin-bottom: 18px;
+  }
+  .img5{
+    display: none;
+  }
+  .title7 {
+    width: 220px;
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .div19 {
+    display: block;
+  }
+  .div20 {
+    height: 150px;
+    margin-bottom: 18px;
+  }
+  .img6{
+    height: 190px;
+  }
+  .title8 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .div22 {
+    width: 100%;
+    height: 350px;
+    gap: 30px;
+    padding: 25px 0;
+    display: block;
+    text-align: center;
+  }
+  .title9 {
+    font-size: 28px;
+  }
+  .parag9 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .img7 {
+    width: 150px;
+    margin-top: 20px;
+  }
+  .section4 {
+    display: block;
+    padding: 40px 0;
+  }
+  .container4 {
+    width: 90%;
+  }
+  .title10 {
+    font-size: 24px;
+    padding-bottom: 25px;
+  }
+  .button7 {
+    display: none;
+  }
+  .div25 {
+    width: 100%;
+    display: block;
+  }
+  .div26 {
+    width: auto;
+    margin-bottom: 18px;
+  }
+  .elena{
+    display: none;
+  }
+  .img9 {
+    margin-left: 0;
+  }
+  .parag10 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .div28 {
+    margin-top: 45px;
+  }
+  .title12 {
+    font-size: 24px;
+  }
+  .parag12 {
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .div29 {
+    display: block;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .div30 {
+    width: 47%;
+    height: 140px;
+    margin-bottom: 15px;
+  }
+  .title13 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  footer {
+    padding: 35px 0;
+  }
+  .container5 {
+    width: 88%;
+    display: block;
+  }
+  .div31 {
+    width: 100%;
+  }
+  .img11 {
+    width: 190px;
+    margin-bottom: 18px;
+  }
+  .title14 {
+    width: 100%;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .parag13 {
+    font-size: 11px;
+    padding-bottom: 30px;
+  }
+  .div32 {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 25px;
+  }
+  .katalog{
+    margin-left: -250px;
+  }
+  .title15 {
+    font-size: 17px;
+    padding-bottom: 15px;
+  }
+  .link3 {
+    font-size: 13px;
+    margin-bottom: 12px;
+  }
+  .div33 {
+    width: 100%;
+  }
+  .parag14 {
+    font-size: 13px;
+    line-height: 26px;
+  }
+}
